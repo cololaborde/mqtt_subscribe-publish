@@ -21,7 +21,7 @@ try:
     topico = sys.argv[2]
     timeinterval = sys.argv[3]
 except:
-    print('Bad parametters')
+    print('Bad parameters')
     exit(0)
     
     
